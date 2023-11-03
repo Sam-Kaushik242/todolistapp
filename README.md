@@ -3,7 +3,7 @@
 Welcome to the Todo List app, a simple and efficient way to manage your tasks and stay organized. This README will help you get started with the app and provide essential information for customization and deployment.
 
 ## Demo 
-A live demo of the TextTrack (Word Counter) App is available at the following link[here]([https://texttrack.netlify.app](https://todolistapp000.netlify.app).
+A live demo of the TextTrack (Word Counter) App is available at the following link[here]([https://texttrack.netlify.app](https://todolistapp000.netlify.app)).
 
 
 ## Features
