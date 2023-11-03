@@ -27,4 +27,6 @@ Follow these steps to set up the project on your local machine:
 1. Clone this repository:
 
    ```bash
-   git clone https://todolistapp000.netlify.app.git
+   git clone https://github.com/Sam-Kaushik242/todolistapp.git
+   ```
+   cd todolistapp
