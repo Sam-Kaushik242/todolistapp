@@ -25,5 +25,5 @@ To run this TodoList App locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://todolistapp.netlify.app/.git
-   cd todolist-app
+    git clone https://github.com/Sam-Kaushik242/todolistapp.git
+   cd todolistapp
